@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+main {
+    display: grid;
+    grid-auto-flow: column;
+}
+
+article {
+    transform: translateX(50%);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+}
+
+figure {
+    display: grid;
+    grid-auto-flow: row;
+    margin: 0;
+}
+
+img {
+}
+
+a {
+}
+
+figcaption {
+    transform: rotate(-30deg) translateY(-50%);
+    text-align: center;
+}
